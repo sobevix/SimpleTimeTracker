@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Project>
+    <ProjectId>416e1fe4-89de-400f-9310-fabcf25a31ac</ProjectId>
+    <ProjectName>Test</ProjectName>
+  </Project>
+  <Project>
+    <ProjectId>0d7064f2-c374-4d14-91cb-1e9074ca6c2b</ProjectId>
+    <ProjectName>TestPrj</ProjectName>
+  </Project>
+  <Project>
+    <ProjectId>b1ca2bf2-1b89-44b0-a8d0-fe26989940e4</ProjectId>
+    <ProjectName>Test1</ProjectName>
+  </Project>
+</root>
