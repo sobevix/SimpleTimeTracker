@@ -1,4 +1,4 @@
-﻿namespace SimpleTimeTracker
+﻿namespace SmpleTimeTrackerServices
 {
     partial class Form1
     {

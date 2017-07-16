@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Event>
+    <EventId>30e3bcfa-43d4-486f-bc93-cb8632535591</EventId>
+    <ProjectId>416e1fe4-89de-400f-9310-fabcf25a31ac</ProjectId>
+    <Description>Test</Description>
+    <StartTime>7/15/2017 10:21:23 PM</StartTime>
+    <EndTime>7/15/2017 10:21:27 PM</EndTime>
+    <ElapsedTime>00:00:03</ElapsedTime>
+  </Event>
+  <Event>
+    <EventId>d7832689-51e2-43b1-bebf-a5ba1d4bec8b</EventId>
+    <ProjectId>b1ca2bf2-1b89-44b0-a8d0-fe26989940e4</ProjectId>
+    <Description>Test1Event</Description>
+    <StartTime>7/15/2017 10:48:30 PM</StartTime>
+    <EndTime>7/15/2017 10:48:34 PM</EndTime>
+    <ElapsedTime>00:00:03</ElapsedTime>
+  </Event>
+</root>

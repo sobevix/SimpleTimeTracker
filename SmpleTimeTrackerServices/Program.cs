@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SimpleTimeTracker
+namespace SmpleTimeTrackerServices
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace SimpleTimeTracker
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SimpleTimeTracker());
+            Application.Run(new Form1());
         }
     }
 }
